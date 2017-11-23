@@ -8,6 +8,8 @@ int main(int argc, char *argv[])
     QCoreApplication a(argc, argv);
 
     cout<<"Hello World!"<<endl;
+    for(auto c:"bubu")
+    cout<<c;
 
     return a.exec();
 }

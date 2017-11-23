@@ -11,5 +11,7 @@ int main(int argc, char *argv[])
     for(auto c:"bubu")
     cout<<c;
 
+    cout<<endl<<"Hi! I'm AlexK0zzz ;)"<<endl;
+
     return a.exec();
 }
